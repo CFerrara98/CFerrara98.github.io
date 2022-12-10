@@ -11,7 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
-  background-color: #D4DCDF;
+  background-color: #d5f2e3;
 }
 
 a {
@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #2eafec;
+  background: #003049;
   transition: background 0.2s ease-in-out;
 }
 
@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #7091BC;
+  background: #003049;
   overflow-y: auto;
 }
 
@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #212431;
+  background: #1d3557;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -319,7 +319,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #003049;
 }
 
 .about .content ul {
